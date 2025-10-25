@@ -1,7 +1,9 @@
 # **Epic Fight: Controlify**
 
-A simple mod that integrates [**Epic Fight**](https://modrinth.com/mod/epic-fight) with [**Controlify
-**](https://modrinth.com/mod/controlify) for full controller support.
+A simple mod that integrates [**Epic Fight**](https://modrinth.com/mod/epic-fight) 
+with [**Controlify**](https://modrinth.com/mod/controlify) for full controller support.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PLZmGQZ5iAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Controlify NeoForge Crash**
 
@@ -25,7 +27,6 @@ This mod currently supports:
 * Knockdown wake-up skill
 * Controlify-supported keybinds with descriptions and a radial menu for switching to vanilla mode or opening the skill
   editor screen
-* Other minor fixes
 
 However, the **Skill Editor** and **Skill Tree** screens from Epic Fight are **not yet supported**.
 
