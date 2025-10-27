@@ -1,4 +1,17 @@
-# **Epic Fight: Controlify**
+# **[DEPRECATED] Epic Fight: Controlify**
+
+## **IMPORTANT (READ BEFORE DOWNLOADING)**
+
+This mod’s functionality is now officially included in  
+[Epic Fight 21.13.3.2](https://modrinth.com/mod/epic-fight/version/21.13.3.2) (and newer versions).
+
+We’ve collaborated directly with the Epic Fight team to bring native controller support through the Controlify mod.  
+This integration provides a smoother and more reliable experience, with fewer bugs, issues, and workarounds.
+
+Do **not** install this mod alongside any Epic Fight version **before 21.13.3.2**,  
+as it will cause undefined or buggy behavior.
+
+This addon was originally a quick prototype to demonstrate that controller support could be done.
 
 A simple mod that integrates [**Epic Fight**](https://modrinth.com/mod/epic-fight) 
 with [**Controlify**](https://modrinth.com/mod/controlify) for full controller support.
