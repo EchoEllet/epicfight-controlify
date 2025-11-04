@@ -1,23 +1,22 @@
 package dev.echoellet.epicfight_controlify;
 
+import com.yesman.epicskills.EpicSkills;
 import net.minecraft.resources.ResourceLocation;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.jetbrains.annotations.ApiStatus;
 import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
 
-import com.mojang.logging.LogUtils;
-
-import net.neoforged.bus.api.IEventBus;
-import net.neoforged.fml.common.Mod;
-import net.neoforged.fml.ModContainer;
+import org.slf4j.LoggerFactory;
 import yesman.epicfight.main.EpicFightMod;
 
 @Mod(EpicFightControlify.MODID)
 public class EpicFightControlify {
     public static final String MODID = "epicfight_controlify";
-    public static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 
-    public EpicFightControlify(IEventBus modEventBus, ModContainer modContainer) {
+    public EpicFightControlify(FMLJavaModLoadingContext context) {
 
     }
 
@@ -29,5 +28,10 @@ public class EpicFightControlify {
     @ApiStatus.Internal
     public static @NotNull ResourceLocation epicFightRl(@NotNull final String path) {
         return ResourceLocation.fromNamespaceAndPath(EpicFightMod.MODID, path);
+    }
+
+    @ApiStatus.Internal
+    public static @NotNull ResourceLocation epicSkillsRl(@NotNull final String path) {
+        return ResourceLocation.fromNamespaceAndPath(EpicSkills.MODID, path);
     }
 }

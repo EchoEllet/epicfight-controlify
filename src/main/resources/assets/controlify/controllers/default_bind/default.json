@@ -1,22 +1,55 @@
 {
   "defaults": {
-    "epicfight_controlify:attack": {
+    "epicfight:attack": {
       "axis": "controlify:axis/right_trigger"
     },
-    "epicfight_controlify:weapon_innate_skill": {
+    "epicfight:weapon_innate_skill": {
       "axis": "controlify:axis/right_trigger"
     },
-    "epicfight_controlify:mobility": {
-      "button": "controlify:button/south"
-    },
-    "epicfight_controlify:guard": {
+    "epicfight:weapon_innate_skill_tooltip": {
       "axis": "controlify:axis/left_trigger"
     },
-    "epicfight_controlify:dodge": {
+    "epicfight:mobility": {
+      "button": "controlify:button/south"
+    },
+    "epicfight:guard": {
+      "axis": "controlify:axis/left_trigger"
+    },
+    "epicfight:dodge": {
       "button": "controlify:button/east"
     },
-    "epicfight_controlify:lock_on": {
+    "epicfight:lock_on": {
       "button": "controlify:button/left_stick"
+    },
+    "epicskills:move_skill_tree_up": {
+      "axis": "controlify:axis/right_stick_up"
+    },
+    "epicskills:move_skill_tree_down": {
+      "axis": "controlify:axis/right_stick_down"
+    },
+    "epicskills:move_skill_tree_right": {
+      "axis": "controlify:axis/right_stick_right"
+    },
+    "epicskills:move_skill_tree_left": {
+      "axis": "controlify:axis/right_stick_left"
+    },
+    "epicskills:scale_skill_tree_up": {
+      "axis": "controlify:axis/right_trigger"
+    },
+    "epicskills:scale_skill_tree_down": {
+      "axis": "controlify:axis/left_trigger"
+    },
+    "epicskills:navigate_skill_tree_next": {
+      "button": "controlify:button/right_shoulder"
+    },
+    "epicskills:navigate_skill_tree_prev": {
+      "button": "controlify:button/left_shoulder"
+    },
+    "epicskills:open_skill_editor": {
+      "button": "controlify:button/north"
+    },
+    "epicskills:convert_xp_to_ability_point": {
+      "button": "controlify:button/west"
     }
   }
 }
