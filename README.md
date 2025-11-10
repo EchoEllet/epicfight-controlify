@@ -1,29 +1,28 @@
-# 🎮 **Epic Fight: Controlify**
+# 🎮 ** [DEPRECATED] Epic Fight: Controlify**
 
 A mod that integrates [**Epic Fight**](https://modrinth.com/mod/epic-fight) with
 [**Controlify: Forgified (Unofficial)**](https://www.curseforge.com/minecraft/mc-mods/controlify-forgified-unofficial)
 for full controller support.
 
+This addon is the result of collaboration with the Epic Fight team.
+
+## ⚠️ DEPRECATED (READ THIS SECTION BEFORE DOWNLOADING)
+
+Starting from **Epic Fight 21.13.3.2 (NeoForge 1.21.1)** and **Epic Fight 20.13.5 (Forge 1.20.1)**,  
+this mod’s functionality is **already built-in** to Epic Fight and is fully supported natively.
+
+Installing this addon on these or newer versions of Epic Fight may cause **undefined or buggy behavior**.
+
+All sections in this page are likely **outdated** and do not reflect the latest Epic Fight X Controlify behavior.
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PLZmGQZ5iAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## 🚀 Future Direction | NeoForge
+## 🚀 Future Direction
 
-As of **Epic Fight 21.13.3.2 (NeoForge 1.21.1)**, this mod’s functionality is **built-in** and fully supported.  
-Installing it on NeoForge 1.21.1 may cause **undefined** or buggy behavior.
-
-We **recommend** using the **latest Epic Fight NeoForge 1.21.1** with Controlify.  
-If you’re still on legacy Forge 1.20.1, you can keep using it until Epic Fight addons migrate to NeoForge 1.21.1
-(or newer versions).
-
-This project is the result of collaboration with the Epic Fight team.  
-However, the only officially supported integration is the built-in one included with
-**Epic Fight NeoForge 1.21.1** and newer versions.
-
-> Unlike the Epic Fight NeoForge 1.21.1 build, this backport does not support on-screen Controlify button guides,  
-> since [Controlify: Forgified](https://www.curseforge.com/minecraft/mc-mods/controlify-forgified-unofficial)  
-> is an unofficial backport of an older Controlify version.
+We **recommend** using the **latest Epic Fight NeoForge** (1.21.1 or newer) with Controlify.  
+If you’re still on legacy Forge, you can keep using it until Epic Fight addons migrate to NeoForge.
 
 ## ⚔️ **Epic Fight Actions**
 
