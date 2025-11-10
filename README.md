@@ -48,7 +48,7 @@ Make sure you have these mods installed:
 
 - [**Epic Fight**](https://modrinth.com/mod/epic-fight)
 - [**Controlify: Forgified (Unofficial)**](https://www.curseforge.com/minecraft/mc-mods/controlify-forgified-unofficial)
-  - [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) (required by Controlify)
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) (required by Controlify)
 
 ## 🔧 **Compatibility**
 
@@ -56,6 +56,7 @@ Make sure you have these mods installed:
 
 - [Epic Fight](https://modrinth.com/mod/epic-fight)
 - [Epic Fight: Skill Tree](https://modrinth.com/mod/epic-fight-skill-tree)
+- [Epic Fight - Sword Soaring](https://www.curseforge.com/minecraft/mc-mods/sword-soaring)
 
 ---
 
@@ -64,11 +65,6 @@ Make sure you have these mods installed:
 - [Epic Fight - Invincible Lib](https://www.curseforge.com/minecraft/mc-mods/epic-fight-invincible) — This mod registers
   custom keybinds and input handling, even for basic attacks, so it’s currently unsupported.  
   We have [submitted a GitHub pull request](https://github.com/GaylordFockerCN/EpicFight-Invincible/pull/2) to the
-  author to address this issue.
-
-- [Epic Fight - Sword Soaring](https://www.curseforge.com/minecraft/mc-mods/sword-soaring) — This mod introduces custom
-  keybinds that require patching for full compatibility.  
-  We have [submitted a GitHub pull request](https://github.com/GaylordFockerCN/SwordSoaring-Reborn/pull/7) to the
   author to address this issue.
 
 ---
