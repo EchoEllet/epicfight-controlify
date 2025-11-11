@@ -1,9 +1,6 @@
-Initial Forge 1.20.1 backport.
+❌ **'Epic Fight: Controlify' is no longer needed.**
 
-## 📦 **Required Dependencies**
+For **Minecraft 1.20.1**: Install **Epic Fight [20.13.5](https://modrinth.com/mod/epic-fight/version/u7xQUdgE) or newer** and **Controlify: Forgified (Unofficial backport)**.  
+For **Minecraft 1.21.1 or newer**: Install the **latest Epic Fight** and the **official Controlify** (not the backport).
 
-Make sure you have these mods installed:
-
-- [**Epic Fight**](https://modrinth.com/mod/epic-fight) (20.13.4 and newer versions)
-- [**Controlify: Forgified (Unofficial)**](https://www.curseforge.com/minecraft/mc-mods/controlify-forgified-unofficial)
-    - [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) (required by Controlify)
+Please remove this mod to avoid crashes or undefined behavior.

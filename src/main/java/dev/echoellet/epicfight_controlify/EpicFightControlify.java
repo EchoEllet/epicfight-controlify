@@ -2,6 +2,7 @@ package dev.echoellet.epicfight_controlify;
 
 import com.yesman.epicskills.EpicSkills;
 import net.minecraft.resources.ResourceLocation;
+import net.minecraftforge.fml.ModLoadingException;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.jetbrains.annotations.ApiStatus;
@@ -17,7 +18,19 @@ public class EpicFightControlify {
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 
     public EpicFightControlify(FMLJavaModLoadingContext context) {
+        crash();
+    }
 
+    public void crash() {
+        throw new RuntimeException(
+                """
+                        ❌ 'Epic Fight: Controlify' is no longer needed.
+                        
+                        For Minecraft 1.20.1: Install Epic Fight 20.13.5 or newer and Controlify: Forgified (Unofficial backport).
+                        For Minecraft 1.21.1 or newer: Install the latest Epic Fight and the official Controlify (not the backport).
+                        
+                        Please remove this mod to avoid crashes or undefined behavior."""
+        );
     }
 
     @ApiStatus.Internal

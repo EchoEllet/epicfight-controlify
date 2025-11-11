@@ -8,7 +8,9 @@ This addon is the result of collaboration with the Epic Fight team.
 
 ## ⚠️ DEPRECATED (READ THIS SECTION BEFORE DOWNLOADING)
 
-Starting from **Epic Fight 21.13.3.2 (NeoForge 1.21.1)** and **Epic Fight 20.13.5 (Forge 1.20.1)**,  
+Starting from **Epic Fight 21.13.3.2 (NeoForge 1.21.1)**
+and **Epic Fight [20.13.5](https://modrinth.com/mod/epic-fight/version/20.13.5-1.20.1) (Forge 1.20.1)**,
+
 this mod’s functionality is **already built-in** to Epic Fight and is fully supported natively.
 
 Installing this addon on these or newer versions of Epic Fight may cause **undefined or buggy behavior**.
